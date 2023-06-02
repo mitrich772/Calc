@@ -38,7 +38,7 @@
         android:background="@drawable/textstyle"
         android:elevation="8dp"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="number"
         android:paddingLeft="40dp"
         android:stateListAnimator="@null"
         android:text=""
